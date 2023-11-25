@@ -1,4 +1,5 @@
 import { HiArrowNarrowRight } from "react-icons/hi";
+import { Link } from "react-scroll";
 
 const Home = () => {
   return (
@@ -16,12 +17,15 @@ const Home = () => {
           Ich bin ein Full-Stack Developer der mit aktuellen Technologien wie React.js, TypeScript und Tailwind CSS ein Responsive Frontend bauen kann. Oder auch mit ein backend mit Java, Node.js oder Ruby on Rails.
         </p>
         <div>
+        <Link to='work' smooth={true} duration={500}>
           <button className="text-white group border-2 px-6 py-3 my-2 flex items-center hover:bg-pink-600 hover:border-pink-600">
             Projekte sehen
             <span className="group-hover:rotate-90 duration-300">
               <HiArrowNarrowRight className="ml-3 " />
             </span>
           </button>
+        </Link>
+
         </div>
       </div>
     </div>
