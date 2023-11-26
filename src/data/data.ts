@@ -1,12 +1,14 @@
 import WorkIm from '../assets/projects/workImg.jpeg'
 import RealEst from '../assets/projects/realestate.jpg'
+import TaskManagement from '../assets/projects/TaskManagementSystem.png'
+
 
 export const data=[
     {
         id:1,
-        name:"React JS Application",
-        image:WorkIm,
-        github:"",
+        name:"Task Management System",
+        image:TaskManagement,
+        github:"https://github.com/NerminVej/Task-Management",
         live:"",
     },
     {
