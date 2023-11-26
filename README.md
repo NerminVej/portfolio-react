@@ -21,7 +21,7 @@ Clone the repository to your local machine:
 
    ```bash
    git clone https://github.com/yourusername/your-portfolio-project.git
-   
+   ````
 Navigate to the project directory:
    
 
