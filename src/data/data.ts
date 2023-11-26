@@ -4,6 +4,8 @@ import TaskManagement from '../assets/projects/TaskManagementSystem.png'
 import CraftedComforts from '../assets/projects/Craftedcomforts.png'
 import Memories from '../assets/projects/memoriesproject.png'
 import Spotify from '../assets/projects/spotifyclone.png'
+import Twitter from '../assets/projects/twitterclone.png'
+import QuickSum from '../assets/projects/quicksum.png'
 
 
 export const data=[
@@ -37,16 +39,16 @@ export const data=[
     },
     {
         id:4,
-        name:"Student Managemment System",
-        image:RealEst,
-        github:"",
-        live:"",
+        name:"QuickSum (React, Tailwind CSS)",
+        image:QuickSum,
+        github:"https://github.com/NerminVej/AI_Summarizer",
+
     },
     {
         id:5,
-        name:"Spotify Clone",
-        image:RealEst,
-        github:"",
+        name:"Twitter Clone (React, TypeScript, Tailwind CSS)",
+        image:Twitter,
+        github:"https://github.com/NerminVej/Twitter-Clone",
         live:"",
     },
 
