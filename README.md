@@ -30,7 +30,7 @@ Navigate to the project directory:
 
 Install the project dependencies:
 
-bash
+
 
     npm install
 
@@ -38,8 +38,8 @@ Usage
 
 To start the development server, run:
 
-bash
 
-npm run dev
+
+    npm run dev
 
 This will start a development server, and you can view your portfolio website at http://localhost:3000 in your web browser.
