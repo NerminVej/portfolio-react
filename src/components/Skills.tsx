@@ -11,6 +11,11 @@ import Spring from '../assets/spring.jpg';
 import Ruby from '../assets/ruby.png';
 import Rails from '../assets/rails.png';
 import Typescript from '../assets/typescript.png';
+import MariaDB from "../assets/mariadb.png";
+import MySQL from "../assets/mysql.png";
+import Postgre from "../assets/postgres.png";
+import Python from "../assets/python.png";
+
 
 const Skills = () => {
   return (
@@ -54,10 +59,6 @@ const Skills = () => {
                   <p className='my-4'>NODE JS</p>
               </div>
               <div className='shadow-md shadow-[#040c16] hover:scale-110 duration-500'>
-                  <img className='w-20 mx-auto' src={Mongo} alt="HTML icon" />
-                  <p className='my-4'>MONGO DB</p>
-              </div>
-              <div className='shadow-md shadow-[#040c16] hover:scale-110 duration-500'>
                   <img className='w-20 mx-auto' src={Java} alt="HTML icon" />
                   <p className='my-4'>Java</p>
               </div>
@@ -73,8 +74,22 @@ const Skills = () => {
                   <img className='w-20 mx-auto' src={Rails} alt="HTML icon" />
                   <p className='my-4'>Ruby on Rails</p>
               </div>
-
-
+              <div className='shadow-md shadow-[#040c16] hover:scale-110 duration-500'>
+                  <img className='w-20 mx-auto' src={Mongo} alt="HTML icon" />
+                  <p className='my-4'>MONGO DB</p>
+              </div>
+              <div className='shadow-md shadow-[#040c16] hover:scale-110 duration-500'>
+                  <img className='w-20 mx-auto' src={MariaDB} alt="HTML icon" />
+                  <p className='my-4'>MariaDB</p>
+              </div>
+              <div className='shadow-md shadow-[#040c16] hover:scale-110 duration-500'>
+                  <img className='w-20 mx-auto' src={Postgre} alt="HTML icon" />
+                  <p className='my-4'>PostgreSQL</p>
+              </div>
+              <div className='shadow-md shadow-[#040c16] hover:scale-110 duration-500'>
+                  <img className='w-20 mx-auto' src={MySQL} alt="HTML icon" />
+                  <p className='my-4'>MySQL</p>
+              </div>
 
           </div>
 

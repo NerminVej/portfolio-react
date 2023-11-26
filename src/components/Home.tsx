@@ -14,7 +14,7 @@ const Home = () => {
           Ich bin ein Full-Stack Developer.
         </h2>
         <p className="text-[#8892b0] py-4 max-w-[700px]">
-          Ich bin ein Full-Stack Developer der mit aktuellen Technologien wie React.js, TypeScript und Tailwind CSS ein Responsive Frontend bauen kann. Oder auch mit ein backend mit Java, Node.js oder Ruby on Rails.
+          Ich bin ein Full-Stack Developer der mit aktuellen Technologien wie React.js, TypeScript und Tailwind CSS ein Responsive Frontend bauen kann. Oder auch mit ein Backend mit Java, Node.js oder Ruby on Rails.
         </p>
         <div>
         <Link to='work' smooth={true} duration={500}>
