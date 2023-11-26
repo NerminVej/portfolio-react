@@ -20,12 +20,12 @@ Make sure you have Node.js and npm (Node Package Manager) installed on your mach
 Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/yourusername/your-portfolio-project.git
+   git clone https://github.com/yourusername/portfolio-react-project.git
    ````
 Navigate to the project directory:
    
 
-    cd your-portfolio-project
+    cd portfolio-react-project
 
 
 Install the project dependencies:
