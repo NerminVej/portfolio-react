@@ -19,9 +19,9 @@ Make sure you have Node.js and npm (Node Package Manager) installed on your mach
 
 1. Clone the repository to your local machine:
 
-
-          git clone https://github.com/yourusername/your-portfolio-project.git
-
+   ```bash
+   git clone https://github.com/yourusername/your-portfolio-project.git
+   
 Navigate to the project directory:
    
 
