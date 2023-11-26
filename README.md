@@ -24,9 +24,9 @@ Make sure you have Node.js and npm (Node Package Manager) installed on your mach
 
 Navigate to the project directory:
    
-   `````bash
-   cd your-portfolio-project
-``````
+
+    cd your-portfolio-project
+
 
 Install the project dependencies:
 
